@@ -6,7 +6,7 @@ authors = ["dmlk79"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.12"
 altair = "5.2.0"
 attrs = "23.1.0"
 blinker = "1.7.0"
